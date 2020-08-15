@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f49a:
+# Hyperblog
 
 Un blog increible para practicar git y github
 
