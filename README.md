@@ -11,6 +11,7 @@ Un blog increible para practicar git y github
 - El verdadero amor por las practicas
 - Trucos muy locos del profesor
 - Las personalidades multiples de Fraddy
+- Creado por el incrible Platzi team
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.
 Diseñado para el ejemplo. Si llegas aca no te lo tomes en serio y mejor visita [Platzi](http://platzi.com "Platzi").
